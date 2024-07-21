@@ -1,0 +1,8 @@
+rootProject.name = 'mpp-proiect-java-alx-g03'
+include 'Model'
+include 'Persistence'
+include 'Services'
+include 'Networking'
+include 'Server'
+include 'Client'
+
